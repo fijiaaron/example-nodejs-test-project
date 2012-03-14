@@ -1,0 +1,9 @@
+This is an example project template for testing node.js projects.
+
+It includes:
+
+Makefile			- for executing unit and integration tests with mocha
+package.json			- for specifying project dependendies and scripts
+test/unit/dummy.js		- an example mocha unit test
+test/integration/dummy.js	- an example mocha integration test
+test/config/default.js		- default configuration for external servers

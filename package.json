@@ -1,0 +1,23 @@
+{
+  "name": "Example Node Test Project",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "",
+  "author": "",
+  "repository": "git://github.com/fijiaaron/example-node-test-project",
+  "engines": {
+    "node": "0.4.9"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha" : "0.12.1",
+    "should" : "0.3.2",
+    "gently" : "0.9.1",
+    "jslint" : "0.1.0",
+    "nodemock" : "0.2.16",
+    "xmlhttprequest": "1.3.0",
+  },
+  "scripts": {
+  }
+}
